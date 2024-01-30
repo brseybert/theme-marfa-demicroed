@@ -1,3 +1,7 @@
+This is just Manton Reece's [Marfa theme for Hugo](https://github.com/microdotblog/theme-marfa) with the references to [micro.blog](https://micro.blog) removed, in case you want to use it as a clean, unpromoted theme. 
+
+Here's the README.md from his original theme:
+
 # _Neo Cactus_ for Jekyll
 
 #### Demo: [https://mmarfil.com/](https://mmarfil.com/)
